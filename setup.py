@@ -35,7 +35,7 @@ setup(
     long_description_content_type="text/markdown",
     license="MIT",
     url="https://github.com/rshrj/pirsa-dl",
-    download_url="https://github.com/rshrj/pirsa-dl/archive/1.0.0.tar.gz",
+    download_url="https://github.com/rshrj/pirsa-dl/releases/download/v1.0.0-alpha/pirsa-dl-1.0.0.tar.gz",
     dependency_links=dependency_links,
     author_email="rishiraj.1012exp@gmail.com",
     classifiers=[
